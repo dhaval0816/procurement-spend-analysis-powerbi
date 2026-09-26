@@ -144,3 +144,5 @@ Excel (Power Query, INDEX/MATCH, SUMIFS/COUNTIFS, SUMPRODUCT, conditional format
 
 ## Author
 Dhavalkumar Pandav - Supply Chain Management, Lambton College, Ottawa
+
+LinkedIn: https://www.linkedin.com/in/dhaval0816
